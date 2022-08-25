@@ -1,4 +1,12 @@
-### Hi there 👋
+### नमस्कारः  👋
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/111378423/186728296-63a6bead-d596-4182-a995-6d10374af52e.png" />
+</p>
+
+![github image]()
+
 
 <!--
 **satpute-soujanya/satpute-soujanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
