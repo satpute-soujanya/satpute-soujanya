@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/111378423/186728296-63a6bead-d596-4182-a995-6d10374af52e.png" />
+  <img src="https://user-images.githubusercontent.com/111378423/186729672-46227a90-2528-4e06-8f2a-200c06595b64.png" width="200" />
 </p>
 
-![github image]()
+
 
 
 <!--
