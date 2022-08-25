@@ -1,8 +1,8 @@
-### नमस्कारः  👋
 
+<h1 align="center" >नमस्कारः  👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/111378423/186729672-46227a90-2528-4e06-8f2a-200c06595b64.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/111378423/186729672-46227a90-2528-4e06-8f2a-200c06595b64.png" width="500" />
 </p>
 
 
