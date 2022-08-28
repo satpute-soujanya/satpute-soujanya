@@ -8,6 +8,6 @@ I have recently started a YT channel **f(x)** which will act as a one-stop desti
 </p>  
 
 
-- 🔭 I’m currently learning SQL 📀 and busy and making and breaking tables
+- 🔭 I’m currently learning SQL 📀 and busy in making and breaking tables
 
 
